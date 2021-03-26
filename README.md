@@ -1,1 +1,3 @@
 # videosRenaming
+
+Initial bash script project. Nothing to see here ...
